@@ -32,6 +32,10 @@ p {
   color: black;
 }
 
+a {
+  color: white;
+}
+
 .header {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
@@ -48,8 +52,4 @@ p {
   background-color: dimgray;
   text-align: left;
   width: 100%;
-}
-
-a {
-  color: white;
 }
