@@ -32,16 +32,24 @@ p {
   color: black;
 }
 
-.design {
+.header {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+.newyork {
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 .footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+  width: 100%;
 }
 
-.bottom-nav {
-  text-decoration: underline;
+a {
+  color: white;
 }
